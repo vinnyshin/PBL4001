@@ -1,0 +1,13 @@
+pus,mov,mov,mov,add,pus,mov,dec,pus,mov,dec,pus,cal,tes,jnz
+pus,cal,pus,mov,dec,pus,mov,dec,pus,cal,tes,jnz
+add,mov,mov,mov,mov,mov,mov,mov,pus,lea,cal,pus,pop,lea,mov,mov,mov,pus,pus,pus,pop,pus,pus,pus,mov,dec,pus,cal,pop,mov,mov,lea,inc,pus,lea,cal,pus,tes,jz
+pus,pus,mov,dec,pus,cal,pus,cal,mov,mov,lea,inc,pus,cal,tes,nop,jnz
+add,mov,pus,cal,pop,add,add,mov,lea,add,pus,sub,lea,add,pop,mov,mov,pus,add,pus,cal,pus,pus,add,pus,pus,pus,cal,pus,cal,mov,add,sbb,jb
+lea,cal,pus,pus,mov,dec,pus,cal,pus,mov,dec,pus,mov,dec,pus,cal,cmp,jnz
+sub,or,pus,sub,or,pus,sub,or,pus,cal,cmp,jz
+xor,sub,neg,pus,pop,sub,or,mov,pus,mov,clc,adc,not,clc,sbb,add,clc,sbb,xor,dec,and,pus,pop,clc,adc,sub,cmp,jnz
+pus,cal,pus,pus,mov,dec,pus,cal,pus,mov,dec,pus,mov,dec,pus,cal,tes,jnz
+pus,pus,mov,dec,pus,cal,pus,pus,mov,dec,pus,cal,pus,mov,dec,pus,mov,dec,pus,cal,tes,jnz
+pus,cal,pus,pus,mov,dec,pus,cal,pus,pop,cal,add,and,mov,dec,pus,mov,dec,pus,cal,tes,jnz
+pus,cal,pus,mov,dec,pus,mov,dec,pus,cal,tes,jnz
+pus,pus,mov,dec,pus,cal,pus,mov,dec,pus,mov,dec,pus,cal,cmp,jnz

@@ -1,0 +1,16 @@
+rol
+lodsd
+mul
+inc
+fisttp
+imul
+or
+lea
+imul
+retn
+push
+mov
+push
+and
+into
+cmp

@@ -1,0 +1,12 @@
+xch,add,add,add,mov,sto,mov,cal,pop,pus,xch,mov,inc,add,or,or,add,add,or,add,cdq,mov,sbb,adc,cmp,add,add,das,pus,cmp,cmp,inc,sub,sub,mov,inc,inc,mov,pus,das,jmp
+mov,add,xla,cal,add,tes,or,pus,sca,add,jmp
+pus,out,xor,tes,pus,mov,xor,and,and,fdi,jno
+std,add,cal,pop,pop,mov,mov,xla,add,inc,inc,add,jz
+fad,fad,pop,add,pop,add,pus,add,mov,mov,and,and,fad,fad,ret
+pus,add,mov,mov,add,inc,add,mov,add,std,inc,jmp
+pop,add,add,inc,cal,tes,tes,sub,sub,mov,mov,add,cmp,dec,add,add,ret
+dec,add,ent,mov,mov,fad,fad,sbb,sbb,add,cld,add,jmp
+mov,mov,dec,add,add,inc,adc,adc,fad,fmu,jno
+mov,mov,mov,mov,mov,mov,pus,pus,add,mov,add,mov,inc,mov,cmp,jz
+pop,mov,add,mov,add,mov,add,mov,mov,add,xor,cmp,jz
+pop,mov,add,mov,add,mov,add,mov,mov,add,mov,xor,mov,add,add,mov,add,mov,add,mov,cmp,jnz

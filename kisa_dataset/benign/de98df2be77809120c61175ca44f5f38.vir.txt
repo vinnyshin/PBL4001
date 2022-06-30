@@ -1,0 +1,14 @@
+push
+call
+retn
+retn
+pop
+retn
+adc
+retn
+pusha
+call
+pop
+inc
+push
+retn

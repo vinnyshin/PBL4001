@@ -1,0 +1,2 @@
+pus,mov,add,pus,pus,pus,pus,lea,cal,mov,lea,stc,and,lea,and,pus,pus,pus,cal,inc,jz
+fdi,lea,shr,pus,pus,cal,cld,not,lea,stc,sub,lea,add,lea,cld,cal,cld,jmp

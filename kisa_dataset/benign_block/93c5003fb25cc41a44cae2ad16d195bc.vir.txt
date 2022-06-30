@@ -1,0 +1,8 @@
+pus,pus,mov,pus,mov,pus,pus,mov,pus,lea,pus,pus,mov,cal,add,pus,lea,pus,pus,mov,cal,lea,mov,cal,mov,mov,pus,pus,cal,tes,jz
+pus,cal,lea,mov,mov,cal,xor,mov,mov,pop,pop,add,ret
+pus,pus,mov,pus,mov,sub,pus,mov,pus,lea,cal,lea,mov,cal,lea,pus,pus,mov,cal,add,pus,lea,mov,cal,lea,mov,cal,mov,cal,tes,jz
+mov,cal,pus,lea,cal,mov,mov,pus,pus,lea,pus,pus,mov,cal,add,lea,mov,cal,mov,pus,pus,pus,cal,add,lea,mov,cal,lea,mov,cal,mov,xor,mov,pop,add,ret
+pus,mov,pus,pus,pus,mov,pus,mov,add,pus,pus,pus,mov,mov,pus,cal,add,mov,mov,cal,mov,mov,cal,mov,mov,mov,mov,mov,cal,mov,tes,jnz
+pus,cal,add,cal,pus,pus,cal,add,mov,mov,lea,pus,mov,pus,lea,pus,lea,pus,lea,pus,cal,add,pus,pus,cal,add,mov,mov,mov,cmp,jnz
+mov,pus,pus,pus,pus,cal,pus,cal,mov,pus,cal,jmp
+mov,mov,pus,cal,add,mov,mov,mov,pop,pop,pop,mov,pop,ret

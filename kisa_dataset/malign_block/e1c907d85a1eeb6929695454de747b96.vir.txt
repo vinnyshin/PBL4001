@@ -1,0 +1,15 @@
+pus,mov,lea,dec,shr,bsr,tes,btr,btc,bsw,mov,tes,sbb,neg,bt,mov,tes,ror
+imu,lea,imu,dec,mov,shl,bsw,dec,bts,neg,mov,xad,shr,or,mov,or,not,rep
+mov,tes,bt,tes,mov,mov,mov,imu,bt,mov,imu,bsf,mov,bsf,imu,ror
+mov,not,or,bsf,bsw,btr,xad,xad,shr,mov,bts,rep
+bsr,btr,bsw,mov,mov,mov,mov,inc,mov,mov,btr,mov,bsw,rep
+xad,lea,shl,lea,bsw,btr,bsr,bsf,imu,not,mov,bsr,tes,imu,lea,bsf,lea,bsf,xad,mov,tes,mov,shl,xor,tes,lea,mov,mov,bt,rol
+add,mov,mov,add,cal,add,pus,pus,pus,pus,pus,cal,mov,pop,pus,pus,cal,add,jmp
+pus,pus,pus,pus,pus,cal,mov,pus,lea,lea,pus,pus,cal,add,add,jmp
+fic,xch,cmc,cdq,lah,cmp,pus,mov,or,add,ret
+xor,mov,dec,add,pus,or,inc,int,or,mov,jmp
+xch,pus,loo,sto,or,pus,cal,inc,cmp,mov,tes,stc,jno
+in,stc,xor,tes,shr,div,or,inc,cmp,dec,cmc,cmp,sub,sbb,jb
+nop,or,pus,pus,xor,dec,inc,pus,cwd,add,mov,inc,mov,jp
+xor,ins,mov,imu,pop,ins,cmp,ice,mov,cbw,arp,jns
+pus,pus,xor,pus,in,pus,out,ins,mov,adc,jmp

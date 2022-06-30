@@ -1,0 +1,14 @@
+pus,pus,mov,pus,mov,sub,pus,mov,cal,pus,lea,cal,lea,lea,mov,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,mov,xor,pop,mov,add,ret
+pus,pus,mov,pus,mov,pus,pus,mov,mov,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,mov,mov,cal,mov,pop,mov,add,ret
+pus,pus,mov,pus,mov,pus,mov,pus,pus,pus,pus,mov,pus,pus,mov,cal,lea,mov,cal,lea,mov,mov,cal,lea,mov,mov,cal,lea,mov,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,lea,mov,cal,pus,mov,mov,mov,cal,pus,mov,cal,pus,mov,cal,pus,lea,cal,pus,lea,cal,pus,lea,cal,pus,lea,cal,cal,pus,pus,pus,cal,pus,cal,mov,mov,pop,pop,pop,mov,pop,mov,add,ret
+pus,mov,pus,mov,lea,pus,pus,pus,cal,lea,pus,pus,pus,cal,lea,pus,pus,pus,cal,lea,pus,pus,pus,cal,lea,pus,pus,pus,cal,lea,pus,pus,pus,cal,add,pus,pus,pus,cal,pop,pop,ret
+sub,pus,pus,pus,pus,mov,cal,mov,xor,pus,pus,pus,pus,pus,pus,mov,cal,mov,mov,mov,pus,pus,pus,pus,cal,mov,mov,pus,pus,pus,pus,cal,pus,pus,lea,cal,lea,xor,xor,mov,mov,pus,mov,lea,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,cal,pus,mov,cal,pus,add,cal,pus,mov,cal,mov,add,lea,pus,pus,cal,mov,mov,mov,mov,sub,sub,pus,pus,sub,pus,sub,pus,pus,mov,cal,pus,mov,cal,tes,jz
+lea,cal,lea,mov,cal,lea,mov,cal,mov,mov,add,ret
+pus,pus,pus,lea,cal,mov,lea,mov,pus,neg,sbb,and,pus,pus,pus,cal,mov,pus,cal,pus,mov,cal,mov,mov,lea,pus,pus,cal,mov,mov,pus,mov,sub,sub,inc,cdq,sub,mov,sar,pus,mov,sub,sub,inc,cdq,sub,mov,sar,pus,pus,cal,lea,cal,pop,pop,pop,add,ret
+mov,pus,pus,mov,pus,mov,pus,pus,mov,pus,cal,tes,mov,jnz
+xor,mov,mov,pus,mov,cal,mov,pus,mov,cal,jmp
+pus,mov,pus,pus,pus,mov,pus,cal,lea,pus,mov,mov,cal,cmp,jnz
+mov,mov,pus,mov,mov,mov,mov,mov,cal,pus,cal,pus,mov,cal,mov,mov,pus,pus,pus,cal,pus,mov,cal,mov,pus,pus,pus,cal,pus,mov,cal,mov,pus,pus,pus,cal,pus,mov,cal,mov,pus,pus,pus,cal,pus,mov,cal,mov,pus,pus,pus,cal,pus,mov,cal,mov,pus,pus,pus,cal,mov,mov,pus,pus,cal,pop,pop,pop,mov,pop,ret
+pus,mov,pus,pus,pus,mov,pus,mov,sub,pus,pus,pus,mov,xor,mov,pus,cal,pop,or,or,cal,mov,mov,cal,mov,mov,mov,mov,mov,cal,cmp,jnz
+pus,cal,pop,cal,pus,pus,cal,mov,mov,lea,pus,pus,lea,pus,lea,pus,lea,pus,cal,pus,pus,cal,add,mov,mov,mov,cmp,jnz
+pus,pop,pus,pus,pus,pus,cal,pus,cal,mov,pus,cal,mov,mov,mov,mov,pus,pus,cal,pop,pop,ret

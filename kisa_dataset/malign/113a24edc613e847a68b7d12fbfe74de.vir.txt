@@ -1,0 +1,16 @@
+push
+call
+retn
+retn
+sbb
+stosb
+sbb
+retf
+pushf
+retf
+pusha
+call
+pop
+inc
+push
+retn

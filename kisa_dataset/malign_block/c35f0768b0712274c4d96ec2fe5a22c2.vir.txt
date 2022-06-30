@@ -1,0 +1,8 @@
+pop,stc,pop,or,btr,xor,pop,bsw,not,mov,pop,jmp
+mov,mov,mov,mov,mov,shl,mov,mov,mov,bsr,mov,btr,mov,mov,tes,btr,xor,cmo,pop,jmp
+shl,or,mov,stc,shl,cmc,or,bsw,mov,stc,cmc,shl,cmc,cmp,or,cmp,jnb
+lea,btr,btc,lea,cmp,lea,cmc,tes,cmp,cmp,jmp
+pus,mov,clc,sub,tes,lea,pus,sal,pus,mov,shl,clc,stc,lea,tes,cmp,stc,xor,sal,sub,mov,rcr
+sub,mov,add,pus,add,pus,sbb,mov,cmo,lea,rol
+pus,mov,pus,tes,sub,cmc,cmp,pus,cmp,pus,stc,cmp,jbe
+mov,cdq,mov,idi,stc,mov,mov,mov,mov,cmp,cdq,cmp,tes,idi,pop,cmc,cmp,cmp,mov,cmc,mov,cmc,clc,xor,jmp

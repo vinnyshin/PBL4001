@@ -1,0 +1,5 @@
+inc
+shl
+scasb
+mov
+retn

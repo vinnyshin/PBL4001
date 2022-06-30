@@ -1,0 +1,1 @@
+pus,cal,tes,inc,add,inc,add,inc,add,inc,add,inc,add,cdq,inc,add,tes,add,mov,jmp

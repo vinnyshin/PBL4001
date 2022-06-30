@@ -1,0 +1,15 @@
+pus,mov,pus,pus,mov,mov,pus,cal,add,add,mov,pus,cal,tes,jnz
+pus,mov,add,pus,pus,pus,lea,mov,mov,mov,mov,xor,mov,xor,xor,mov,xor,mov,mov,mov,mov,mov,inc,inc,cmp,jnz
+pus,mov,add,pus,pus,pus,mov,pus,pop,cal,pus,imu,ins,ins,out,arp,pop,cal,pus,imu,jb
+add,dec,add,inc,cld,mov,mov,add,mov,cmp,jz
+mov,mov,add,mov,mov,mov,add,mov,mov,mov,add,mov,mov,mov,add,mov,mov,lea,pus,cal,mov,cmp,jz
+mov,pus,mov,pus,cal,mov,mov,pus,mov,pus,cal,mov,cmp,jz
+mov,mov,pus,pus,mov,pus,pus,cal,mov,tes,jz
+mov,mov,lea,pus,pus,mov,pus,mov,pus,cal,mov,pus,pus,mov,pus,cal,mov,add,add,mov,add,mov,mov,dec,tes,jb
+mov,add,mov,mov,mov,mov,mov,mov,pus,mov,pus,mov,pus,cal,jmp
+mov,add,mov,mov,add,mov,mov,pus,mov,pus,mov,pus,cal,jmp
+mov,mov,add,mov,mov,add,mov,mov,pus,mov,pus,mov,pus,cal,add,dec,jnz
+pus,mov,pus,pus,cal,mov,mov,add,mov,add,mov,mov,add,mov,mov,mov,mov,add,mov,mov,mov,sub,pus,pop,cmp,jnz
+mov,add,mov,mov,add,mov,sub,shr,dec,mov,cmp,jle
+pus,pop,sub,pus,pop,mov,mov,mov,lea,mov,rep
+lea,pus,pus,pus,pus,cal,mov,sub,add,mov,lea,pus,mov,pus,pus,pus,cal,add,mov,tes,ja

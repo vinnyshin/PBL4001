@@ -1,0 +1,3 @@
+xchg
+cmp
+retf

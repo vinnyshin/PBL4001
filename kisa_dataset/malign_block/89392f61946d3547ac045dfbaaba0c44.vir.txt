@@ -1,0 +1,6 @@
+pus,cal,and,and,tes,inc,add,adc,set,adc,fco,inc,add,xch,inc,add,mov,jmp
+inc,add,add,pop,inc,add,inc,add,add,xor,add,sub,add,sub,add,cmp,add,jmp
+xor,add,adc,add,add,add,loo,add,add,cal,jmp
+pus,mov,add,cld,pus,pus,pus,mov,mov,cmp,jnz
+mov,cal,pus,mov,cal,mov,inc,inc,pop,or,jz
+dec,mov,pus,mov,mov,xor,shl,cal,or,pop,mov,cal,cmp,jnb

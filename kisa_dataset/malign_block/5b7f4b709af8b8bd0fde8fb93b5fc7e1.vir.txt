@@ -1,0 +1,3 @@
+cmp,dec,pus,or,mov,sub,pus,loo,fic,pus,dec,and,pop,mov,cmo,dec,xch,pus,pus,sub,sbb,pop,ror
+pus,tes,lah,fis,sub,cal,inc,sub,cal,and,cli,xor,fia,cmp,pus,pop,cld,jnb
+wai,mov,mov,mov,mov,sub,hlt,arp,or,xch,xor,jnz

@@ -1,0 +1,13 @@
+pus,nop,ice,cal,tes,nop,pop,pus,cal,pop,mov,pop,ret
+mov,cal,sub,pus,mov,pus,cal,pop,mov,cal,pus,lea,cal,and,lea,lea,mov,cal,or,lea,cal,mov,xor,pop,mov,lea,ret
+mov,cal,pus,pus,mov,mov,lea,mov,cal,lea,mov,cal,and,lea,cal,or,mov,cal,mov,pop,mov,lea,ret
+mov,cal,pus,pus,pus,pus,mov,pus,mov,pus,cal,and,lea,mov,cal,lea,mov,cal,lea,mov,cal,and,mov,pus,mov,mov,mov,cal,pus,lea,cal,pus,lea,cal,cal,mov,pus,pus,pus,cal,pus,cal,mov,mov,mov,pop,pop,pop,mov,lea,ret
+pus,mov,pus,mov,lea,pus,pus,pus,cal,lea,pus,pus,pus,cal,lea,pus,pus,pus,cal,add,pus,pus,pus,cal,pop,pop,ret
+fld,pus,pus,mov,fst,cal,pop,pop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,nop,ret
+pus,pus,pus,lea,cal,lea,pus,neg,sbb,and,pus,pus,pus,cal,mov,pus,cal,pus,mov,cal,mov,lea,pus,pus,cal,mov,pus,sub,sub,inc,cdq,sub,sar,pus,mov,sub,sub,inc,cdq,sub,sar,pus,pus,cal,lea,cal,pop,pop,jmp
+pus,xor,pus,pus,mov,pus,nop,adc,pus,pus,cal,pus,nop,adc,pus,pus,pus,pus,pus,pus,pus,cal,pus,pus,cal,pus,pus,pus,pus,pus,cal,pus,cal,pus,cal,pus,cal,pus,pus,pus,pus,pus,pus,nop,adc,pus,pus,pus,pus,pus,pus,cal,pus,pus,cal,pus,pus,cal,pus,cal,nop,adc,pus,pus,cal,pus,cal,pus,pus,pus,pus,pus,nop,adc,pus,pus,pus,pus,pus,pus,pus,pus,cal,pus,pus,pus,pus,nop,adc,pus,mov,cal,lea,pus,pus,cal,mov,cal,pop,pop,ret
+mov,pus,cal,mov,pus,mov,cal,pop,pop,pop,ret
+mov,cal,pus,pus,mov,pus,lea,cal,and,lea,pus,lea,cal,or,lea,cal,pus,mov,cal,mov,pop,mov,lea,ret
+pus,mov,lea,pus,pus,cal,pus,mov,cal,pop,ret
+pus,mov,pus,pus,pus,mov,pus,nop,nop,pop,pop,pop,lea,ret
+pus,pop,pus,pus,pus,pus,cal,pus,cal,mov,pus,cal,mov,mov,mov,mov,nop,pus,cal,pop,pop,ret

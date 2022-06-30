@@ -1,0 +1,14 @@
+pus,dec,sub,mov,sub,mov,cal,sub,mov,pus,dec,pus,dec,cal,tes,jnz
+pus,dec,sub,mov,sub,mov,cal,pus,dec,sub,mov,sub,mov,cal,jmp
+mov,sub,mov,cal,sub,mov,pus,dec,pus,dec,cal,cmp,jnz
+sub,neg,add,mov,sub,sub,neg,pus,xor,xor,clc,adc,neg,add,ror
+sub,mov,cal,pus,dec,sub,mov,sub,mov,cal,jmp
+sub,mov,sub,mov,cal,sub,mov,pus,dec,pus,dec,cal,cmp,jnz
+sub,mov,cal,pus,dec,sub,mov,sub,mov,cal,jmp
+add,mov,sub,mov,sub,mov,cal,mov,mov,pus,cal,mov,pus,pus,mov,mov,mov,pus,pus,pop,mov,pus,cal,pus,pop,mov,pus,cal,tes,jz
+pop,pus,sub,mov,sub,mov,cal,pop,pus,pus,dec,sub,mov,sub,mov,cal,pop,pus,pus,dec,sub,mov,sub,mov,cal,pop,pus,pop,mov,add,add,mov,cal,mov,pus,pus,pus,pus,xor,dec,pus,cal,pus,dec,sub,mov,sub,mov,cal,mov,cmp,ja
+mov,sub,mov,cal,sub,mov,pus,dec,pus,dec,cal,cmp,jnz
+sub,mov,cal,pus,dec,sub,mov,sub,mov,cal,jmp
+sub,mov,cal,pus,dec,sub,mov,sub,mov,cal,jmp
+mov,sub,mov,cal,sub,mov,pus,dec,pus,dec,cal,tes,jnz
+sub,mov,sub,mov,cal,sub,mov,sub,mov,cal,jmp

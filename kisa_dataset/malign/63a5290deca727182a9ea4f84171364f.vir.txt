@@ -1,0 +1,12 @@
+and
+rcl
+adc
+add
+adc
+push
+and
+or
+mov
+mov
+inc
+retn

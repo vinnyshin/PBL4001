@@ -1,0 +1,15 @@
+pus,mov,sub,pus,pus,pus,xor,mov,mov,mov,cal,tes,jz
+and,lea,pus,cal,mov,lea,pus,pus,pus,cal,tes,jz
+inc,pus,pus,lea,pus,cal,add,mov,lea,mov,add,mov,mov,mov,mov,mov,lea,pus,cal,mov,cal,tes,jnz
+tes,mov,pus,pop,cmo,pus,pus,pus,pus,cal,jmp
+mov,lea,mov,sub,mov,mov,lea,cmp,mov,pal,mov,mov,pal,mov,mov,pal,mov,lea,jge
+mov,lea,lea,mov,sub,mov,mov,lea,cmp,mov,pal,mov,mov,pal,mov,mov,pal,mov,lea,jge
+mov,lea,mov,mov,sub,mov,mov,lea,cmp,mov,pal,mov,mov,pal,mov,mov,pal,mov,lea,jge
+and,mov,mov,mov,mov,mov,shr,mov,add,add,cmp,jb
+mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,add,add,jmp
+mov,and,mov,mov,mov,mov,shr,mov,sub,sub,cmp,jb
+mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,add,add,jmp
+lea,nop,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,mov,lea,lea,dec,jnz
+pus,mov,and,sub,pus,xor,inc,or,pus,cal,tes,jz
+xor,mov,xor,cpu,pus,mov,pus,lea,or,mov,mov,mov,mov,mov,mov,mov,xor,mov,xor,mov,or,mov,xor,or,neg,pus,sbb,pop,inc,pus,pop,cpu,mov,mov,mov,mov,mov,mov,jz
+pus,xor,lea,pop,cpu,mov,mov,mov,mov,mov,mov,mov,mov,tes,jz

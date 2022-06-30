@@ -1,0 +1,5 @@
+cmc
+mov
+add
+cmpsd
+iret

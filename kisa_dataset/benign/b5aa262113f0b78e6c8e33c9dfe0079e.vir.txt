@@ -1,0 +1,12 @@
+and
+xor
+sbb
+mov
+stc
+retf
+pusha
+call
+pop
+inc
+push
+retn

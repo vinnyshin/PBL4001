@@ -1,0 +1,13 @@
+or,add,add,add,xor,xch,mov,or,mov,xla,or,or,mov,xch,or,ret
+mov,add,xch,mov,xor,xch,xch,xch,xch,xch,xch,xch,xch,div,jmp
+mov,mov,pus,add,xch,xch,or,add,xch,xch,tes,aam,pus,shl,xla,or,ret
+mov,pus,cmp,pop,cmp,tes,sub,xch,mov,xch,aad,or,ret
+xla,cmp,fil,add,or,lah,pus,add,xch,or,ret
+pus,add,xch,inc,xch,xch,and,or,pop,tes,cdq,or,pop,tes,or,ret
+mov,das,cmp,xch,pus,xch,mov,mov,add,tes,aad,add,add,ret
+lod,or,xch,mov,and,xch,xch,and,xch,cmp,xch,tes,tes,tes,ret
+lod,add,xch,mov,xch,tes,aad,lod,and,xch,cmp,xch,xch,tes,tes,ret
+lod,or,xch,mov,adc,cmp,xch,and,cmp,xch,xch,tes,tes,ret
+mov,xch,inc,lea,xch,inc,lea,xch,lea,xch,lea,xch,lea,xch,xch,dec,lea,xch,dec,lea,xch,dec,lea,xch,dec,lea,xch,dec,lea,xch,dec,lea,xch,dec,lea,xch,dec,lea,xch,dec,lea,xch,lea,xch,lea,xch,lea,xch,lea,xch,ret
+xor,mov,or,sub,xch,add,std,xch,xch,lds,ror
+pop,lea,shr,pus,imu,xch,cmp,tes,or,or,ret

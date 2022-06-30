@@ -1,0 +1,14 @@
+push
+call
+retn
+retn
+lodsb
+retn
+dec
+jmp
+pusha
+call
+pop
+inc
+push
+retn

@@ -1,0 +1,15 @@
+mov,mov,add,mov,mov,mov,mov,add,inc,mov,inc,cmp,jl
+mov,mov,add,mov,add,mov,mov,add,mov,mov,add,add,mov,mov,add,add,mov,mov,add,add,mov,mov,add,jmp
+mov,add,mov,sub,shr,sub,mov,add,mov,add,mov,shl,mov,add,mov,add,mov,add,mov,ret
+mov,add,cal,mov,add,cal,mov,add,cal,mov,add,cal,mov,add,inc,xor,jnz
+mov,add,pus,mov,add,cal,pus,pop,mov,add,mov,mov,add,inc,xor,jnz
+mov,add,pus,mov,add,pus,mov,add,cal,pus,pop,mov,add,mov,mov,add,inc,xor,jnz
+mov,add,pus,mov,add,pus,mov,add,cal,pus,pop,mov,add,mov,mov,add,inc,xor,jnz
+mov,add,pus,mov,add,pus,mov,add,cal,pus,pop,mov,add,mov,xor,pus,pus,pus,mov,add,pus,pus,pus,mov,add,mov,add,pus,pus,ret
+mov,add,mov,pus,mov,add,mov,pus,mov,add,mov,pus,mov,add,mov,pus,mov,add,jmp
+add,inc,set,mov,pus,sti,inc,pus,xla,in,add,daa,cmc,jmp
+imu,fil,mov,add,inc,add,add,add,sto,add,add,ret
+sto,add,add,add,cmp,pus,add,sto,add,add,add,add,add,add,add,add,add,add,aam,cmp,add,sto,add,add,ret
+sto,add,add,add,cmp,pus,add,sto,add,add,add,add,add,add,mov,add,add,inc,add,add,add,sto,add,add,ret
+mov,xor,add,pop,xor,add,mov,add,sub,sub,add,aad,add,sbb,xor,ret
+sto,add,add,add,add,xor,aad,add,add,add,add,ret

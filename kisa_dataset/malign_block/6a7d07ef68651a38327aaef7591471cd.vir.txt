@@ -1,0 +1,15 @@
+pus,cal,mov,cal,pus,pus,cal,pus,pus,pus,cal,add,mov,cal,pus,cal,pop,pus,mov,cmp,jnb
+pus,pus,xor,pus,mov,cal,mov,pus,cal,inc,pus,pus,cal,pus,cal,mov,cmp,jnz
+pus,mov,sub,pus,pus,xor,pus,pus,mov,cal,pus,mov,lea,pus,pus,cal,add,lea,pus,pus,mov,cal,jmp
+pus,mov,pus,pus,and,pus,lea,pus,mov,pus,pus,cal,tes,jz
+lea,pus,pus,pus,pus,pus,pus,cal,mov,pop,lea,ret
+pus,mov,sub,pus,pus,xor,pus,pus,cal,mov,cmp,jz
+pus,pus,pus,lea,pus,pus,cal,pus,pus,pus,pus,pus,xor,mov,lea,pus,pus,pus,pus,mov,pus,pus,mov,pus,pus,cal,mov,cmp,jnz
+pus,pus,pus,pus,pus,pus,lea,pus,pus,pus,pus,pus,cal,pus,jmp
+lea,pus,pus,pus,mov,cal,pus,cal,pus,cal,pop,pop,pop,lea,ret
+pus,mov,sub,pus,pus,pus,cal,pus,mov,xor,lea,pus,pus,cal,add,lea,pus,pus,pus,mov,mov,cal,cmp,jz
+lea,pus,lea,pus,lea,pus,pus,pus,pus,mov,mov,cal,pus,cal,lea,pus,lea,pus,pus,pus,pus,pus,pus,pus,lea,pus,pus,pus,cal,pop,pop,tes,jz
+pus,pus,pus,pus,pus,pop,xor,pus,pus,mov,mov,mov,mov,mov,mov,mov,cal,pus,pus,mov,mov,mov,mov,cal,pus,cal,pus,cal,mov,mov,pus,cal,cal,mov,cmp,jz
+pus,cal,pop,mov,pus,pus,cal,pus,cal,pus,cal,pus,cal,cmp,jz
+cal,and,and,lea,pus,mov,mov,cal,xor,lea,ret
+lea,mov,mov,mov,mov,mov,mov,mov,mov,lea,dec,jnz

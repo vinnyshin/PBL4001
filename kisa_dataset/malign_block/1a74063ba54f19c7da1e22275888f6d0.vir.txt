@@ -1,0 +1,2 @@
+dec,pus,inc,add,inc,add,dec,pus,inc,add,jmp
+pop,inc,inc,add,inc,add,inc,add,inc,add,inc,add,mov,jmp

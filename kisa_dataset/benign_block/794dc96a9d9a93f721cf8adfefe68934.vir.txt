@@ -1,0 +1,11 @@
+mov,pus,pus,mov,xor,mov,pus,inc,inc,out,ins,jo
+lah,xor,pus,pop,dec,and,pus,int,and,imu,les,jo
+xor,add,stc,fst,dec,and,dec,cal,or,lod,add,hlt,mov,pop,or,ret
+pus,dec,dec,lah,pus,dec,pus,cal,pus,cal,pus,cal,pus,cal,pus,cal,pus,cal,pus,cal,pus,cal,pus,cal,pus,cal,pus,jmp
+pop,pus,and,pop,pus,and,pop,pus,and,pop,pus,and,pop,pus,and,pop,pus,and,pop,pus,and,sub,cal,pop,jmp
+xor,xor,xor,xor,xor,xor,xor,xor,xor,xor,xor,xor,xor,xor,xor,xor,ret
+pop,pus,and,pop,pus,and,pop,pus,and,pop,pus,and,pop,pus,and,pop,pus,and,cmp,cmp,pus,ice,ice,jmp
+and,and,and,and,and,and,and,and,and,and,pus,pus,pop,jmp
+mov,lea,mov,mov,mov,mov,add,sub,mov,xor,ret
+mov,pop,add,pus,pus,pus,pus,pus,pus,lea,mov,pus,mov,pus,pus,pus,pus,mov,add,mov,cal,pop,mov,pus,pus,mov,mov,add,mov,mov,mov,add,mov,mov,add,mov,add,lea,pus,pus,pus,cal,pop,pop,add,mov,pus,mov,mov,add,sub,mov,mov,mov,mov,pus,mov,mov,mov,cal,mov,mov,pop,pop,jmp
+add,pus,pus,pus,cal,mov,pop,pop,pop,pop,pop,pop,jmp

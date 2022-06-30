@@ -1,0 +1,13 @@
+retf
+retf
+or
+xor
+retf
+stosb
+mov
+xor
+or
+movsd
+pop
+mov
+retf
